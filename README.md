@@ -18,11 +18,7 @@ O site é uma página única e responsiva, com o objetivo de **educar sobre a se
 
 ## 🎨 Design
 
-- Paleta de cores inspirada na natureza:
-  - Verde primário: `#4CAF50`
-  - Destaques âmbar: `#FFC107`
-  - Fundos neutros: `#F5F5F5` e branco
-  - Texto: `#333333`
+- Paleta de cores inspirada na natureza
 - Layout em cards com hierarquia visual clara
 
 ## ✅ Objetivo
